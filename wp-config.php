@@ -19,13 +19,13 @@
 
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 /** Nom de la base de données de WordPress. */
-define('DB_NAME', 'innovedu_wcs_prod');
+define('DB_NAME', 'innovedu_wcs_backup');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'innovedu_wcs');
+define('DB_USER', 'sam');
 
 /** Mot de passe de la base de données MySQL. */
-define('DB_PASSWORD', 'fTRk);MFqEIi');
+define('DB_PASSWORD', 'azerty1234');
 
 /** Adresse de l'hébergement MySQL. */
 define('DB_HOST', 'localhost');
