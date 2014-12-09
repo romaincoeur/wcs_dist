@@ -22,7 +22,7 @@
 define('DB_NAME', 'innovedu_wcs_backup');
 
 /** Utilisateur de la base de données MySQL. */
-define('DB_USER', 'sam');
+define('DB_USER', 'innovedu_sam');
 
 /** Mot de passe de la base de données MySQL. */
 define('DB_PASSWORD', 'azerty1234');
